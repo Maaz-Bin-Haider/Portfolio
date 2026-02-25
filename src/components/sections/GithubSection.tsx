@@ -311,4 +311,3 @@ export default function GithubSection() {
     </section>
   );
 }
-C:\Users\SWISS TECH\Downloads\maaz-portfolio-v4\maaz-portfolio\src\components\sections\AboutSection.tsx
